@@ -128,7 +128,7 @@ inputCapacity.addEventListener('change', function(evt) {
         inputCapacity.children[2].disabled = true;
     }
 });
-    console.log('123')
+    console.log('changes')
 //here i set a custom validity for input  
  })();
     
